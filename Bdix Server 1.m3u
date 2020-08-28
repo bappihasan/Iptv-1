@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BDIX SERVER1", (ONLINE) Sangsad TV [BD]
-https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="BDIX SERVER1", (ONLINE) BTV WORLD [BD]
 https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
